@@ -2,12 +2,14 @@
 
 Esta pasta contém a implementação do Sistema de Gestão para Cafeteria.
 
-## Organização
+## Estrutura
 
 - frontend/
 - backend/
+- controllers/
 - services/
 - models/
-- controllers/
 
-*A estrutura será construída conforme a evolução do projeto.*
+## Funcionalidade em desenvolvimento
+
+- Autenticação de usuários
