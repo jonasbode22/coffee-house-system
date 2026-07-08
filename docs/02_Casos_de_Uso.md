@@ -4,13 +4,14 @@ Este documento apresenta os principais casos de uso do Sistema de Gestão para C
 
 ## Atores
 
+- Teste
 - Administrador
 - Atendente
 - Gerente
 
 ## Casos de Uso
 
-### UC01 – Realizar Login
+### UC01 – Realizar Login - OK - REALIZADO COM SUCESSO
 
 Permite que o usuário acesse o sistema utilizando suas credenciais.
 
